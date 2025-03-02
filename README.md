@@ -8,7 +8,7 @@ An educational platform providing learning resources and signal channels for tra
 ### 📂 Project Overview  
 - **Purpose:** Designed as an assignment project for Database System.  
 - **Features:** Online learning modules, trading signal channels, user registration & login.  
-- **Tech Stack:** (List the technologies used, e.g., HTML, CSS, JavaScript)  
+- **Tech Stack:** (List the technologies used, e.g., HTML, CSS, PHP)  
 
 ### 🚀 Getting Started  
 1. Clone the repository:  
