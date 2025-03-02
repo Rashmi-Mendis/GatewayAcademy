@@ -13,6 +13,6 @@ An educational platform providing learning resources and signal channels for tra
 ### 🚀 Getting Started  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/rashmi-mendis/GatewayAcademy.git
+   https://github.com/Rashmi-Mendis/GatewayAcademy/tree/main
    ```  
 2. Open `index.html` in a browser or use a local server.  
