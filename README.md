@@ -6,9 +6,10 @@ An educational platform providing learning resources and signal channels for tra
 [Gateway Academy](https://rashmi-mendis.github.io/GatewayAcademy/)  
 
 ### 📂 Project Overview  
-- **Purpose:** Designed as an assignment project for Database System.  
+- **Purpose:** Designed as an assignment project for Database System at Rajarata University.  
 - **Features:** Online learning modules, trading signal channels, user registration & login.  
-- **Tech Stack:** (List the technologies used, e.g., HTML, CSS, PHP, MySQL)  
+- **Tech Stack:** (List the technologies used, e.g., HTML, CSS, PHP, MySQL)
+- **created on: ** April 27, 2023
 
 ### 🚀 Getting Started  
 1. Clone the repository:  
