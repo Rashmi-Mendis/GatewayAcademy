@@ -15,4 +15,7 @@ An educational platform providing learning resources and signal channels for tra
    ```sh
    https://github.com/Rashmi-Mendis/GatewayAcademy/tree/main
    ```  
-2. Open `index.html` in a browser or use a local server.  
+2. Open `index.html` in a browser or use a local server.
+
+
+created on 2023
